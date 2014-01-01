@@ -7,7 +7,7 @@
 - Execution: The Discipline of Getting Things Done
 - The Memory Book
 - Getting to Yes
-- iOS Hacker's Handbook
+- iOS Hackers Handbook
 - The Power of Habit
 - This is How
 - The Power of Now
@@ -23,7 +23,7 @@
 - Monkey on Our Backs: Why Conservatives and Liberals Are Wrong About Evolution
 - Choose Yourself
 - Sartre: Being and Nothingness
-- The Philosopher's Toolkit
+- The Philosophers Toolkit
 - The Happiness Hypothesis
 - Willpower
 - Your Memory
@@ -32,7 +32,7 @@
 # Overall
 
 - Bourgeois Dignity
-- Cat's Cradle
+- Cats Cradle
 - Catch 22
 - Coming Apart
 - Daily Rituals
